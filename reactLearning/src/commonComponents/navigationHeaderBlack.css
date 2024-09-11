@@ -1,0 +1,21 @@
+.NavigationHeaderBackground {
+    background-color: #282c34;
+    height: 8dvh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    /* height: fit-content; */
+    justify-content: center;
+    /* background-color: rgb(0, 0, 0);
+    max-width: max-content;
+    max-height: 100vh;
+     */
+}
+
+.NavigationTitle {
+    color: aliceblue;
+    /* max-width: fit-content;
+    max-height: max-content; */
+    /* align-items: center; */
+}

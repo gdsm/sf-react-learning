@@ -1,0 +1,28 @@
+.Background {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.ImageInput {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.PlaceHolder {
+    background-color: transparent;
+    width: 250;
+    height: 167;
+}
+
+.DownloadButton {
+    width: 200;
+    height: 80;
+}
